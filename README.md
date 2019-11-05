@@ -6,7 +6,8 @@ Dependencies:
 - py3DNS
 - validate_email
 - google-api-python-client
-- google-auth-httplib2 google-auth-oauthlib
+- google-auth-httplib2
+- google-auth-oauthlib
 
 How to run:
 -
